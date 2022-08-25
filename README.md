@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome! I'm Elke 👋
+
+- 😄 Pronouns: She/her
+- 🤓 I'm currently studying at UCSB Bren School of Environmental Science & Management
+- 🌱 I’m currently learning environmental data science skills
+- 📫 How to reach me: elke@ucsb.edu, elke.windschitl@gmail.com
+- 🐟 I'm passionate about marine conservation
 
 <!--
 **elkewind/elkewind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
