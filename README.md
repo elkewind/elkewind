@@ -3,8 +3,9 @@
 - 😄 Pronouns: She/her
 - 🤓 I'm currently studying at UCSB Bren School of Environmental Science & Management
 - 🌱 I’m currently learning environmental data science skills
-- 📫 How to reach me: elke@ucsb.edu, elke.windschitl@gmail.com
 - 🐟 I'm passionate about wildlife and marine conservation
+- 📫 How to reach me: elke@ucsb.edu, elke.windschitl@gmail.com
+
 
 Many of my current repositories are for learning purposes and course work in my master's program. Come back soon to see more flushed out projects and homework assignments!
 <!--
