@@ -6,6 +6,7 @@
 - 📫 How to reach me: elke@ucsb.edu, elke.windschitl@gmail.com
 - 🐟 I'm passionate about wildlife and marine conservation
 
+Many of my current repositories are for learning purposes and course work in my master's program. Come back soon to see more flushed out projects and homework assignments!
 <!--
 **elkewind/elkewind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
