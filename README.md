@@ -1,7 +1,7 @@
 ### Welcome! I'm Elke 👋
 
 - 😄 Pronouns: She/her
-- 🤓 I'm a recent graduate of the UCSB Bren School of Environmental Science & Management
+- 🎓 I'm a recent Master of Environmental Data Science graduate of the UCSB Bren School of Environmental Science & Management
 - 🌱 I’m building environmental data science skills
 - 🐟 I'm passionate about wildlife and marine conservation
 - 🌲 I'm interested in natural resource management and sustainable food production
