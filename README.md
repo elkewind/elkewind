@@ -2,8 +2,8 @@
 
 - 😄 Pronouns: She/her
 - 🎓 I'm a recent MEDS graduate of the UCSB Bren School of Environmental Science & Management
-- 🌱 I’m building environmental data science skills
-- 🐟 I'm passionate about wildlife and marine conservation
+- 🌱 I’m building environmental data science skills -- particularly analytics, modeling, GIS, application development, and data visualization.
+- 🐟 I'm passionate about conservation
 - 🌲 I'm interested in ecology, natural resource management, and sustainable food production
 - 📫 How to reach me: elke@bren.ucsb.edu, elke.windschitl@gmail.com
 
