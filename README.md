@@ -7,9 +7,7 @@
 - 🌲 I'm interested in ecology, natural resource management, and sustainable food production
 - 📫 How to reach me: elke@bren.ucsb.edu, elke.windschitl@gmail.com
 
-Many of my current repositories are for learning purposes and coursework in my master's program. Come back soon to see more projects as I continue to develop my EDS skills!
-
-Visit the kelpGeoMod repository to view my most recent collaborative project.
+View my current and past work at the repositories below!
 <!--
 **elkewind/elkewind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
