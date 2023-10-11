@@ -7,7 +7,7 @@
 - 🌲 I'm interested in ecology, natural resource management, and sustainable food production
 - 📫 How to reach me: elke@bren.ucsb.edu, elke.windschitl@gmail.com
 
-View my current and past work at the repositories below!
+View my current and past work at the repositories below! 👇
 <!--
 **elkewind/elkewind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
