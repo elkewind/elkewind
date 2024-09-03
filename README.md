@@ -5,7 +5,7 @@
 - 🌱 I’m building environmental data science skills -- particularly analytics, modeling, GIS, application development, and data visualization.
 - 🐟 I'm passionate about conservation
 - 🌲 I'm interested in ecology, natural resource management, and sustainable food production
-- 📫 How to reach me: elke@bren.ucsb.edu, elke.windschitl@gmail.com
+- 📫 How to reach me: elke.windschitl@gmail.com
 
 View my current and past work at the repositories below! 👇
 <!--
